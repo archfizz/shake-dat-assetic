@@ -1,0 +1,3 @@
+archfizz_shake_dat_assetic_homepage:
+    path:     /
+    defaults: { _controller: ArchfizzShakeDatAsseticBundle:Default:index }
